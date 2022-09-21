@@ -1,3 +1,6 @@
+# description
+https://www.kloia.com/blog/kafka-connect-elasticsearch-sink-connector
+
 # Kafka Connect Elasticsearch Sink Connector
 
 We will use docker and docker-compose to run this project. Increase your memory allocation to 6-8GB just to be safe.
